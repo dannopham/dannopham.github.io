@@ -41,4 +41,5 @@ membership
 - Assist in planning small events for kids
 
 [Costco Wholesale] https://www.costco.com/jobs.html
+
 [Seattle Parks and Recreations] https://www.seattle.gov/parks/about-us/work-with-us
