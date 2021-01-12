@@ -40,6 +40,6 @@ membership
 - Tutoring kids and helping adults when asked
 - Assist in planning small events for kids
 
-[Costco Wholesale][https://www.costco.com/jobs.html]
+Costco Wholesale: [https://www.costco.com/jobs.html](https://www.costco.com/jobs.html)
 
-[Seattle Parks and Recreations][https://www.seattle.gov/parks/about-us/work-with-us]
+Seattle Parks and Recreations: [https://www.seattle.gov/parks/about-us/work-with-us](https://www.seattle.gov/parks/about-us/work-with-us)
