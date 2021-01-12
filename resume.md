@@ -1,10 +1,12 @@
 # Daniel Pham
-dp99@uw.edu
-https://github.com/dannopham/dannopham.github.io
-https://www.linkedin.com/in/daniel-pham-096004162/
+Email: [dp99@uw.edu](dp99@uw.edu)
+
+[https://github.com/dannopham/dannopham.github.io](https://github.com/dannopham/dannopham.github.io)
+
+[https://www.linkedin.com/in/daniel-pham-096004162/](https://www.linkedin.com/in/daniel-pham-096004162/)
 
 # Summary
-From all the challenging STEM classes I’ve taken and a little bit of self-learning in programming, I am ready to utilize my reasoning skills and problem solving to work in an environment that will challenge me to my potential and make an impact.
+>From all the challenging STEM classes I’ve taken and a little bit of self-learning in programming, I am ready to utilize my reasoning skills and problem solving to work in an environment that will challenge me to my potential and make an impact.
 
 # Work Experience
 
